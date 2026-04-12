@@ -1,0 +1,50 @@
+
+.thank{
+    display: flex;
+    justify-content: center;
+    margin-bottom: 1.5rem;
+}
+
+.givenRatings{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-bottom: 2rem; 
+}
+
+.givenRatings p{
+    color: #8F5228;
+    background-color: #272E38;
+    text-align: center;
+    padding: 0.4rem 0.9rem;
+    border-radius: 30px;
+}
+
+.appreciation{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-bottom: 1.3rem;
+}
+
+.appreciation h1{
+    color: white;
+    font-weight: 600;
+}
+
+#thankyou{
+   color: #666C76;
+   text-align: center;
+   font-weight: 600;
+}
+
+@media (max-width : 600px){
+    .givenRatings p{
+        font-size: 1.4rem;
+    }
+
+    #thankyou{
+        font-size: 1.6rem;
+        font-weight: 400;
+    }
+}
