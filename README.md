@@ -11,11 +11,11 @@ This project focuses on clean UI design, user interaction handling, and responsi
 
 🔗 **Live Website:**  
 
-[!Live Demo]()
+[!Live Demo](# https://mansityagi548.github.io/interactive-rating/)
 
 ## 📸 Preview
 
-![Project Preview]()
+![Project Preview](./preview/rating-interactive.png)
 
 
 ## ✨ How It Works
@@ -49,7 +49,7 @@ This project focuses on clean UI design, user interaction handling, and responsi
 ✅ DOM manipulation using JavaScript  
 
 
----
+
 
 ## 🛠️ Tech Stack
 
@@ -59,5 +59,5 @@ This project focuses on clean UI design, user interaction handling, and responsi
   
 - ⚡ JavaScript (Vanilla JS)
 
----
+
 
